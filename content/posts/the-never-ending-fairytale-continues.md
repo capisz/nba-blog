@@ -3,7 +3,7 @@ title: "The Miracle on the Hardwood"
 slug: "the-never-ending-fairytale-continues"
 date: "2026-06-11"
 author: "Chris C"
-category: "Postgame Opinion"
+category: "Opinion"
 tags:
   - Knicks
   - Spurs
@@ -11,15 +11,15 @@ tags:
   - OG Anunoby
   - Jalen Brunson
   - Jose Alvarado
-  - Postgame Opinion
+  - Opinion
 excerpt: "The Knicks erased a 29-point deficit, stole Game 4 on OG Anunoby's tip-in, and moved one win from turning the fairytale into something real."
 publishedAt: "2026-06-11"
-heroImage: "/concrete-jungle/articles/knicks-game-4-postgame-reaction-espn.jpg"
-heroImageSource: "https://www.youtube.com/watch?v=KIzJOBwTi7s"
-heroImageLicense: "NBA on ESPN video thumbnail; rights reserved"
-heroImageCredit: "NBA on ESPN / YouTube"
-heroImageAlt: "OG Anunoby, Jose Alvarado, and Jalen Brunson speak during Knicks Game 4 postgame media availability."
-heroImageCaption: "OG Anunoby, Jose Alvarado, and Jalen Brunson reacted to the Knicks' 29-point comeback after Game 4. Image via NBA on ESPN on YouTube."
+heroImage: "/concrete-jungle/articles/og-anunoby-game-4-tip-in-nba.jpg"
+heroImageSource: "https://www.nba.com/news/live-nba-finals-game-4-spurs-knicks"
+heroImageLicense: "NBA.com editorial image; rights reserved"
+heroImageCredit: "NBA.com"
+heroImageAlt: "OG Anunoby reaches toward the ball for the Game 4 tip-in against the Spurs."
+heroImageCaption: "OG Anunoby reaches into the paint for the Game 4 tip-in during the Knicks' comeback against the Spurs. Image via NBA.com."
 ---
 
 # The Never-Ending Fairytale Continues
