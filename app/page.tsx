@@ -90,6 +90,17 @@ const recentKnicksResults: HomeGameResult[] = [
 const opinionPieces: HomeStory[] = [
   {
     label: "Opinion",
+    title: "The Future of Basketball Is International in a Way No American Sport Can Match",
+    excerpt:
+      "Basketball has the accessibility, star power, and global pathway that football and baseball cannot match.",
+    href: "/posts/future-of-basketball-is-international",
+    image: "/concrete-jungle/articles/future-basketball-international-commissioners.jpeg",
+    imageAlt:
+      "Adam Silver, Gary Bettman, Rob Manfred, and Roger Goodell appear in a four-panel commissioner collage.",
+    meta: "Global game column",
+  },
+  {
+    label: "Opinion",
     title: "The Commissioner: How the Face of the League Controls More Than Many Realize",
     excerpt:
       "The commissioner is sold as the face of the NBA, but the job is really about protecting ownership interests and asking fans to trust a business they rarely see clearly.",
