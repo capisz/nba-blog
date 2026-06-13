@@ -90,6 +90,17 @@ const recentKnicksResults: HomeGameResult[] = [
 const opinionPieces: HomeStory[] = [
   {
     label: "Opinion",
+    title: "The Commissioner: How the Face of the League Controls More Than Many Realize",
+    excerpt:
+      "The commissioner is sold as the face of the NBA, but the job is really about protecting ownership interests and asking fans to trust a business they rarely see clearly.",
+    href: "/posts/the-commissioner-how-the-face-of-the-league-controls-more-than-many-realize",
+    image: "/concrete-jungle/articles/adam-silver-david-stern-commissioner.jpeg",
+    imageAlt:
+      "David Stern and Adam Silver sit at microphones during an NBA press conference.",
+    meta: "League power column",
+  },
+  {
+    label: "Opinion",
     title: "The Miracle on the Hardwood",
     excerpt:
       "The Knicks erased a 29-point deficit, stole Game 4 on OG Anunoby's tip-in, and moved one win from turning the fairytale into something real.",
