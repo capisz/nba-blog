@@ -68,7 +68,7 @@ David and Goliath does not even capture it.
 
 That story is too clean. Too simple. Too fair.
 
-This was more like a toddler being left alone in Jurassic Park and walking out alive with the tooth of the T. rex he outran and defeated himself.
+This was more like a toddler being left alone in Jurassic Park and walking out alive with the tooth of the T. rex he outran and defeated himself. You never expected them to even get close, let alone come out on top.
 
 The Spurs had every reason to win this game. They had the size. They had the lead. They had the pressure. They had the monster in the middle. They had the media narrative waiting for them. They had what felt like the refs favor, delegating the series to go to 7 games to bring the NBA more revenue; because truly why have 1 super bowl when you can potentially have 7? They had the chance to tilt the series back toward San Antonio and make everyone wonder whether the Knicks had finally run out of miracles.
 
