@@ -3,7 +3,7 @@ title: "The Miracle on the Hardwood"
 slug: "the-never-ending-fairytale-continues"
 date: "2026-06-11"
 author: "Chris C"
-category: "Opinion"
+category: "Postgame Opinion"
 tags:
   - Knicks
   - Spurs
@@ -11,15 +11,15 @@ tags:
   - OG Anunoby
   - Jalen Brunson
   - Jose Alvarado
-  - Opinion
+  - Postgame Opinion
 excerpt: "The Knicks erased a 29-point deficit, stole Game 4 on OG Anunoby's tip-in, and moved one win from turning the fairytale into something real."
 publishedAt: "2026-06-11"
-heroImage: "/concrete-jungle/articles/og-anunoby-game-4-tip-in-nba.jpg"
-heroImageSource: "https://www.nba.com/news/live-nba-finals-game-4-spurs-knicks"
-heroImageLicense: "NBA.com editorial image; rights reserved"
-heroImageCredit: "NBA.com"
-heroImageAlt: "OG Anunoby reaches toward the ball for the Game 4 tip-in against the Spurs."
-heroImageCaption: "OG Anunoby reaches into the paint for the Game 4 tip-in during the Knicks' comeback against the Spurs. Image via NBA.com."
+heroImage: "/concrete-jungle/articles/knicks-game-4-postgame-reaction-espn.jpg"
+heroImageSource: "https://www.youtube.com/watch?v=KIzJOBwTi7s"
+heroImageLicense: "NBA on ESPN video thumbnail; rights reserved"
+heroImageCredit: "NBA on ESPN / YouTube"
+heroImageAlt: "OG Anunoby, Jose Alvarado, and Jalen Brunson speak during Knicks Game 4 postgame media availability."
+heroImageCaption: "OG Anunoby, Jose Alvarado, and Jalen Brunson reacted to the Knicks' 29-point comeback after Game 4. Image via NBA on ESPN on YouTube."
 ---
 
 # The Never-Ending Fairytale Continues
@@ -38,7 +38,7 @@ But the alien met its predator tonight, unbroken by the 'alien's' intimidation.
 
 Instead, the Knicks did what they have done all year.
 
-They refused to die.
+They refused to quit.
 
 What made the comeback even more shocking is that the Knicks were not really allowed to play the game they seemed to come in wanting to play. The plan was likely to go through Karl-Anthony Towns early and often. That was the cleanest pressure point. That was the way to punish San Antonio's size without allowing the Spurs to turn every Jalen Brunson touch into a full-court wrestling match.
 
@@ -60,7 +60,7 @@ That mattered because the Spurs are not just long. They suffocate. They turn eve
 
 For a while, it felt like Mike Brown had forgotten that answer existed. Kolek became an afterthought, a designated bench warmer, a player whose usefulness was proven and then buried. But in Game 4, New York found that same solution in a different body.
 
-Jose Alvarado became the pressure release.
+Just like Kolek had been previously, Jose Alvarado became the pressure release.
 
 The two smallest players on the court sat upon the shoulders of giants. Brunson and Alvarado stared down the barrel of a Lord of the Rings-sized monster and somehow made the game feel human again. Every possession became a fight for air. Every dribble felt like a survival mechanism. Every inch had to be earned.
 
@@ -70,27 +70,21 @@ That story is too clean. Too simple. Too fair.
 
 This was more like a toddler being left alone in Jurassic Park and walking out alive with the tooth of the T. rex he outran and defeated himself.
 
-That is what this felt like.
-
-The Spurs had every reason to win this game. They had the size. They had the lead. They had the pressure. They had the monster in the middle. They had the media narrative waiting for them. They had the chance to tilt the series back toward San Antonio and make everyone wonder whether the Knicks had finally run out of miracles.
+The Spurs had every reason to win this game. They had the size. They had the lead. They had the pressure. They had the monster in the middle. They had the media narrative waiting for them. They had what felt like the refs favor, delegating the series to go to 7 games to bring the NBA more revenue; because truly why have 1 super bowl when you can potentially have 7? They had the chance to tilt the series back toward San Antonio and make everyone wonder whether the Knicks had finally run out of miracles.
 
 But this Knicks team is made of whatever survives after logic gives up.
 
 Jalen Brunson kept coming. Jose Alvarado kept pushing. OG Anunoby kept rising. Karl-Anthony Towns kept fighting in the margins. The Garden kept getting louder until the building stopped feeling like an arena and started feeling like a living organism trying to will the ball through the rim.
 
-And when OG tipped in the miss with 1.2 seconds left, it did not feel like a basketball play anymore. It felt like every Knick fan who ever waited, every former player who came close, every heartbreak that stacked itself into the identity of this franchise, all got one hand on that ball.
+A shot that looked flawlessly released, bee-lining to the basket looked like it was floating in slow motion, all oxygen removed from the lungs of those who witnessed it. And when OG tipped in the miss with 1.2 seconds left, it did not feel like a basketball play anymore. It felt like every Knick fan who ever waited, every former player who came close, every heartbreak that stacked itself into the identity of this franchise, all got one hand on that ball. The city of the underdog story, the city where if you can make it you can make it anywhere, the city to never count out, fulfilled its destiny. The euphemisms and songs were no longer monikers, but real, tangible and what felt too perfect for mortal eyes to witness. 
 
 A room full of legends watched young men manifest dreams that were not only their own. The Knicks on the floor were carrying themselves, but they were also carrying everyone who lit the path for them to get here. The Ewing years. The Sprewell and Houston years. The Melo years. The fake rebuilds. The false dawns. The lottery nights. The decades of being told the Knicks were a punchline instead of a sleeping giant.
 
-Last night, the giant woke up.
-
 These Knicks will never forget this moment. This city will never forget this moment. And now the rest of the world finally gets to see the spirit of New York culminated in a group of men whose paths feel like they were brought together by destiny.
 
-That sounds dramatic because it is dramatic.
+Sports are not supposed to matter this much until they do. They are not supposed to become part of a city's emotional history until a night like this forces them into it. Knicks fans will remember where they were. They will remember the deficit. They will remember the disbelief. They will remember the final tip. They will remember the sound of the Garden when the ball dropped and the scoreboard finally made the impossible official. This city has never felt more alive, more together, a price could never be placed on a continuous joy like this.
 
-Sports are not supposed to matter this much until they do. They are not supposed to become part of a city's emotional history until a night like this forces them into it. Knicks fans will remember where they were. They will remember the deficit. They will remember the disbelief. They will remember the final tip. They will remember the sound of the Garden when the ball dropped and the scoreboard finally made the impossible official.
-
-There will be before this Knicks run, and there will be everything after.
+For those who remember this, there will be before this Knicks run, and there will be everything after.
 
 New York is now one win away from a championship.
 
