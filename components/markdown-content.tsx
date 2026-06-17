@@ -1,3 +1,5 @@
+import Image from "next/image"
+
 function normalizeHeading(value: string) {
   return value.replace(/^#+\s*/, "").trim().toLowerCase()
 }
@@ -65,6 +67,40 @@ function renderBlock(block: string, index: number, skipTitle?: string) {
 
   if (!trimmed) {
     return null
+  }
+
+  const imageMatch = trimmed.match(
+    /^!\[([^\]]*)\]\((\S+?)(?:\s+"([^"]+)")?\)(?:\n([\s\S]+))?$/
+  )
+
+  if (imageMatch) {
+    const [, alt, src, titleCaption, rawCaption] = imageMatch
+    const caption =
+      titleCaption ||
+      rawCaption
+        ?.trim()
+        .replace(/^\*/, "")
+        .replace(/\*$/, "")
+        .trim()
+
+    return (
+      <figure key={index} className="my-10 overflow-hidden border-2 border-[#111111] bg-white">
+        <div className="relative aspect-video">
+          <Image
+            src={src}
+            alt={alt}
+            fill
+            className="object-cover"
+            sizes="(min-width: 768px) 768px, 100vw"
+          />
+        </div>
+        {caption ? (
+          <figcaption className="border-t border-neutral-200 px-4 py-3 text-sm font-bold leading-6 text-neutral-600">
+            {renderInline(caption)}
+          </figcaption>
+        ) : null}
+      </figure>
+    )
   }
 
   if (trimmed.startsWith("# ")) {
