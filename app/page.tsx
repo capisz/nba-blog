@@ -15,6 +15,30 @@ const navItems = [
 
 const recentKnicksResults: HomeGameResult[] = [
   {
+    date: "Jun 13",
+    game: "NBA Finals Game 5",
+    result: "W",
+    resultLine: "W - NBA champions - 53 years",
+    series: "Knicks win 4-1",
+    matchup: "Knicks at Spurs",
+    score: "NYK 94, SAS 90",
+    knicksScore: "94",
+    opponentScore: "90",
+    featuredName: "Jalen Brunson",
+    featuredStats: [
+      { label: "Points", value: "45" },
+      { label: "FG", value: "14/27" },
+      { label: "3PT", value: "4/7" },
+      { label: "FT", value: "13/15" },
+    ],
+    note: "Brunson authored the closeout masterpiece, won Finals MVP, and brought New York its first title since 1973.",
+    href: "/posts/knicks-spurs-game-5-report-championship-closeout",
+    image: "/concrete-jungle/articles/knicks-game-5-championship-brunson-nba.jpg",
+    imageAlt:
+      "Jalen Brunson laughs while holding the NBA championship trophy after the Knicks' Game 5 win.",
+    source: "NBA.com",
+  },
+  {
     date: "Jun 10",
     game: "NBA Finals Game 4",
     result: "W",
@@ -60,29 +84,6 @@ const recentKnicksResults: HomeGameResult[] = [
     image: "/concrete-jungle/articles/knicks-game-3-result-nba.jpg",
     imageAlt:
       "Victor Wembanyama, De'Aaron Fox, and Spurs teammates celebrate during NBA Finals Game 3.",
-    source: "NBA.com",
-  },
-  {
-    date: "Jun 5",
-    game: "NBA Finals Game 2",
-    result: "W",
-    resultLine: "W - Knicks survive - Road steal",
-    series: "Knicks lead 2-0",
-    matchup: "Knicks at Spurs",
-    score: "NYK 105, SAS 104",
-    knicksScore: "105",
-    opponentScore: "104",
-    featuredName: "Karl-Anthony Towns",
-    featuredStats: [
-      { label: "Points", value: "21" },
-      { label: "Reb", value: "13" },
-      { label: "Ast", value: "4" },
-      { label: "FG", value: "8/12" },
-    ],
-    note: "The Knicks survived the one-possession finish and brought a 2-0 Finals lead back to New York.",
-    href: "/posts/knicks-spurs-game-2-report-one-point-finals-escape",
-    image: "/concrete-jungle/articles/knicks-game-2-result-nba.jpg",
-    imageAlt: "NBA Finals Game 2 app graphic for Knicks-Spurs coverage.",
     source: "NBA.com",
   },
 ]
@@ -144,6 +145,19 @@ const opinionPieces: HomeStory[] = [
 ]
 
 const postgameWriteups: HomePostgame[] = [
+  {
+    label: "Game 5",
+    title: "Knicks-Spurs Game 5 Report: The Championship Closeout",
+    excerpt:
+      "Jalen Brunson scored 45, the Knicks beat the Spurs 94-90, and New York finally ended a 53-year title drought.",
+    href: "/posts/knicks-spurs-game-5-report-championship-closeout",
+    image: "/concrete-jungle/articles/knicks-game-5-championship-brunson-nba.jpg",
+    imageAlt:
+      "Jalen Brunson laughs while holding the NBA championship trophy after the Knicks' Game 5 win.",
+    meta: "Championship report",
+    quoteNote:
+      "Brunson's postgame answers matched the run: every time New York was counted out, the Knicks found another response.",
+  },
   {
     label: "Game 4",
     title: "Knicks-Spurs Game 4 Report: The Largest Finals Comeback Ever",
@@ -301,10 +315,10 @@ export default function Home() {
               Garden Wire
             </span>
             <a href="#" className="text-neutral-800 hover:text-[#006bb6]">
-              Morning thread: Game 4 disbelief, OG's tip-in, and one win from forever
+              Morning thread: Brunson's 45, a 94-90 closeout, and a title back in New York
             </a>
             <span className="text-xs uppercase tracking-[0.12em] text-neutral-500 md:ml-auto">
-              Updated June 11, 2026
+              Updated June 14, 2026
             </span>
           </div>
         </section>

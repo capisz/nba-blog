@@ -17,6 +17,21 @@ export type GameThread = {
 
 export const gameThreads: GameThread[] = [
   {
+    dateISO: "2026-06-13",
+    dateLabel: "Jun 13",
+    fullDate: "June 13, 2026",
+    weekday: "Sat",
+    game: "Game 5",
+    series: "NBA Finals",
+    result: "Win",
+    score: "Knicks 94, Spurs 90",
+    dek: "New York closed the Finals in San Antonio, rode Jalen Brunson's 45 points, and won its first NBA title since 1973.",
+    articleHref: "/posts/knicks-spurs-game-5-report-championship-closeout",
+    image: "/concrete-jungle/articles/knicks-game-5-championship-brunson-nba.jpg",
+    imageAlt: "Jalen Brunson laughs while holding the NBA championship trophy after the Knicks' Game 5 win.",
+    imagePosition: "center 42%",
+  },
+  {
     dateISO: "2026-06-10",
     dateLabel: "Jun 10",
     fullDate: "June 10, 2026",
