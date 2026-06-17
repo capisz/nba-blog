@@ -91,6 +91,16 @@ const recentKnicksResults: HomeGameResult[] = [
 const opinionPieces: HomeStory[] = [
   {
     label: "Opinion",
+    title: "Why Tom Thibodeau Could Build the Knicks, But Mike Brown Could Finish Them",
+    excerpt:
+      "Tom Thibodeau gave the Knicks their floor back. Mike Brown raised the ceiling.",
+    href: "/posts/thibodeau-mike-brown-knicks-opinion",
+    image: "/concrete-jungle/articles/knicks-thibs-brown-hero.jpg",
+    imageAlt: "Mike Brown looks on from the sideline during an NBA game.",
+    meta: "Coaching column",
+  },
+  {
+    label: "Opinion",
     title: "The Future of Basketball Is International in a Way No American Sport Can Match",
     excerpt:
       "Basketball has the accessibility, star power, and global pathway that football and baseball cannot match.",
